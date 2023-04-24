@@ -1,1 +1,1 @@
-# Lab_5 Diagrams App
+Diagrams App
