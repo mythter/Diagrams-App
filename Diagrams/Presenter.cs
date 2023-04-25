@@ -216,14 +216,5 @@ namespace Diagrams
         {
             return degrees * Math.PI / 180f;
         }
-
-        enum Diagrams
-        {
-            None = 0,
-            HorizontalPrimitives = 1,
-            RoundPrimitives = 2,
-            HorizontalChart = 3,
-            RoundChart = 4
-        }
     }
 }
