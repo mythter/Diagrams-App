@@ -1,6 +1,6 @@
 # Diagrams App
 
-Program that display different diagrams made with primitives and Chart control. Made on Windows Forms using MVP pattern.
+Program that displays different diagrams made with primitives and Chart control. Made on Windows Forms using MVP pattern.
 
 ![image](https://user-images.githubusercontent.com/60883514/234115996-cf56387f-768c-4e9d-8143-c7fe08486737.png)
 
